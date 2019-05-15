@@ -1,3 +1,8 @@
+body {
+	background-color: aqua;
+}
+
 h1 {
-	font-color: red;
+	color: red;
+	font-family: cursive;
 }
