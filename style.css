@@ -1,8 +1,16 @@
 body {
-	
+	background-color: red;
 }
 
 h1 {
-	color: red;
+	
 	font-family: cursive;
+	
+}
+header {
+	
+}
+img {
+	max-width: 100%;
+	height: auto;
 }
