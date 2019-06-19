@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<title>Cafe Leaf</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+
+<!--icon -->
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" sizes="192x192" href="apple-touch-icon.png">
+
+<title>夏休みこども祭り</title>
+<!-- stylesheets -->
+<link rel="stylesheet" href="css/base.css" media="all">
+
+</head>
+<body>
+<header id="header">
+	<div class="container">
+		<h1 class="top-logo"><a href="index.html"><img src=""></a></h1>
+	</div>
+</header><!-- /#header -->
+
+<nav id="gnav">
+	<ul class="container">
+		<li><a href="#intro">イベント概要</a></li>
+		<li><a href="#">出演者の皆様</a></li>
+		<li><a href="#access">アクセス</a></li>
+		<li><a href="#">企画・運営元</a></li>
+	</ul>
+</nav><!-- /#gnav -->
+
+<main id="main" class="container">
+
+	<div id="intro" class="full">
+		<div class="intro-text">
+			<p>夏休みこども祭りは本年度初開催のイベントです。
+			豪華ゲスト陣をお呼びして様々な企画を行います。<br>
+			是非ふるってご参加ください。</p>
+		</div><!-- /.intro-text -->
+		<div class="intro-map" id="access">
+			<div class="map" >
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.73609541008!2d139.715670950577!3d35.56021934410997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601860594226a797%3A0xdc5fcd64a427bad0!2z5aSn55Sw5Yy65rCR44Ob44O844Or44O744Ki44OX44Oq44Kz!5e0!3m2!1sja!2sjp!4v1557900830231!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+			</div><!-- /.map -->
+			<address>
+				<p>東京都大田区蒲田５丁目３７−３</p>
+				<p><a href="https://docs.google.com/forms/d/1c__fQQnl6vl9mRAr7yGMx1JSTbLWmLrD5uMNsaiZtcQ/viewform?edit_requested=true" class="btn-tel">お申し込みはこちらから</a></p>
+			</address>
+		</div><!-- /.intro-map -->
+	</div><!-- /#intro -->
+
+	<section id="menu">
+		<h2 class="heading">出演者の皆様</h2>
+		<br>
+		<ul class="menu-list">
+
+		<!-- 兜鬼オウガ -->
+			<li>
+				<h3 class="menu-text">兜鬼オウガ</h3>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/x9y1RJXYyv0?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<p>長野県戸隠村出身。世界の環境破壊をもくろむ悪の軍団、「ハンニャ～」から地球を守るために日々闘っているカブトムシの戦士。</p>
+			</li>
+		  <br>
+
+			<!--カブトムシゆかり-->
+			<li>
+				<h3>カブトムシゆかり</h3>
+				<img src="img/%E3%82%AB%E3%83%96%E3%83%88%E3%83%A0%E3%82%B7%E3%82%86%E3%81%8B%E3%82%8A%E7%94%BB%E5%83%8F1.JPG" alt="">
+				<p>カブトムシが大好きです。</p>
+			</li>
+			<br>
+
+			<!-- imim-->
+
+			<li>
+				<h3>imim</h3>
+				<p></p>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1_jn12BRM?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</li>
+			<br>
+
+			<h3>全力じじぃ</h3>
+			<br>
+			<!--カブトムシ-->
+			<li>
+
+				<img src="img/%E3%82%AB%E3%83%96%E3%83%88%E3%83%A0%E3%82%B7.JPG" alt="">
+					<h3>なんと参加された<strong>お子様全員</strong>にカブトムシのつがいをプレゼント！</h3>
+			</li>
+
+<!--
+			<li>
+				<img src="img/ph_menu05.jpg" alt="">
+				<p class="menu-text">アップルパイ<br><b>550円</b></p>
+			</li>
+			<li>
+				<img src="img/ph_menu06.jpg" alt="">
+				<p class="menu-text">マドレーヌ<br><b>300円</b></p>
+			</li>
+-->
+		</ul>
+	</section>
+
+	<br>
+	<h2>開催概要</h2>
+
+		<h3>日程</h3>
+			2019年8月12日　月曜日（祝日）
+
+			<h3>場所</h3>
+			大田区民ホール　アプリコ大ホール capa
+			<h3>時間</h3>
+			開場：12:00
+			開園：13:00~14:30
+
+			<h3>料金</h3>・大人（中学生以上）：￥1500（税込み）<br>
+			・子供（4歳～12歳未満）：￥1000（税込み）<br>
+
+<!--	フォーム-->
+	<adress><p style="text-align: center"><a href="https://docs.google.com/forms/d/1c__fQQnl6vl9mRAr7yGMx1JSTbLWmLrD5uMNsaiZtcQ/viewform?edit_requested=true" class="btn-tel">お申し込みはこちらから</a></p></adress>
+
+</main><!-- /#main -->
+
+<footer id="footer">
+	<div class="container">
+
+		<section class="footer-info">
+
+			<dl class="footer-info-list">
+
+				<dt>【営業時間】</dt>
+				<dd>10:00〜19:00（火曜定休）</dd>
+				<dt>【電話番号】</dt>
+				<dd>03-0000-0000</dd>
+				<dt>【住　　所】</dt>
+				<dd>東京都港区青山1-x-x  青山第一ビル1F</dd>
+				<dt>【最寄り駅】</dt>
+				<dd>東京メトロ・都営大江戸線青山一丁目駅  1番出口徒歩3分</dd>
+<!--				<img src="img/%E3%83%84%E3%83%BC%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%82%BA%E3%83%AD%E3%82%B4%E7%94%BB%E5%83%8F.png" alt="トゥーマウンテンズロゴ画像">-->
+			</dl>
+		</section>
+		<ul class="sns">
+
+			<li><a href="#">Facebook</a></li>
+		</ul>
+		<p class="copyright" style="text-align: center"><small>Copyrights (c) 株式会社トゥーマウンテンズ All Rights Reserved.</small></p>
+		<p class="pagetop"><a href="#header"><img src="img/btn_top.png" alt="ページのトップへ"></a></p>
+	</div><!-- /.container -->
+</footer><!-- /#footer -->
+</body>
+</html>
