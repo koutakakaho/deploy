@@ -273,3 +273,8 @@ a:hover img{
 .clearfix{
 	zoom:1;
 }
+
+/*yotubeをレスポンシブ対応させる*/
+.youtube iframe{
+	width: 100%;
+}
